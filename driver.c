@@ -12,7 +12,7 @@
 #include <stdlib.h>
 #include "ppm_info.h"
 
-
+//command-line arguments
 int main(int argc, char* argv[]) {
 
    filePtr_t* outputFiles = NULL;
